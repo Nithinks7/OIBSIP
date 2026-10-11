@@ -1,0 +1,4 @@
+# Never upload your API key
+api_key.txt
+.env
+__pycache__/
