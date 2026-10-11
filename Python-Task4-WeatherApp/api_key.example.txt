@@ -1,1 +1,2 @@
-
+Enter a city name or ZIP code: Mysuru
+  Error: Invalid API key. Check api_key.txt (new keys can take up to a couple of hours to activate).
